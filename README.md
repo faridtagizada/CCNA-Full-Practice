@@ -4,9 +4,16 @@ My Packet Tracer file for the **CCNA Mega Lab** from Jeremy's IT Lab. It's one b
 
 The lab was made by Jeremy McDowell (Jeremy's IT Lab), so credit for the lab itself goes to him. If you're studying for the CCNA and haven't seen his free course on YouTube yet, go check it out.
 
+## Source
+
+- The lab and its walkthrough: [Complete Network Configuration // CCNA Mega Lab!](https://www.youtube.com/watch?v=2p7-MluKAgE) on [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab). The link to download the original lab file is in the video description.
+- His free CCNA course files (flashcards and Packet Tracer labs): [jitl.jp/ccna-files](https://jitl.jp/ccna-files)
+
+The `.pka` file in this repository is Jeremy's lab with my configuration in it. If you want a clean copy, download the original from the links above. The lab and its instructions remain Jeremy's work; if he would rather not have the file shared here, I'll take it down.
+
 ## File
 
-`CCNA_Mega_Lab_Jeremys_IT_Lab11_fixed.pka` - saved in Packet Tracer 9.0, so you'll need 9.0 or newer to open it.
+[`CCNA_Mega_Lab.pka`](CCNA_Mega_Lab.pka) - saved in Packet Tracer 9.0, so you'll need 9.0 or newer to open it.
 
 My configs are already in the file. If you want to do it from scratch, open the instructions window and hit **Reset Activity**.
 
